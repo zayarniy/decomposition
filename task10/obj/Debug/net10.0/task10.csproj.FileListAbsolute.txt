@@ -1,0 +1,14 @@
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\bin\Debug\net10.0\task10.exe
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\bin\Debug\net10.0\task10.deps.json
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\bin\Debug\net10.0\task10.runtimeconfig.json
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\bin\Debug\net10.0\task10.dll
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\bin\Debug\net10.0\task10.pdb
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\task10.AssemblyInfoInputs.cache
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\task10.AssemblyInfo.cs
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\task10.dll
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\refint\task10.dll
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\task10.pdb
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\task10.genruntimeconfig.cache
+C:\Users\ZayarniyAA\Desktop\Декомпозиция\task10\obj\Debug\net10.0\ref\task10.dll
